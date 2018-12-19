@@ -2,6 +2,6 @@ name: SlapperCache
 main: SlapperCache\Main
 version: 2.0.1
 api: [3.0.0-ALPHA11, 3.0.0, 3.5.1, 4.0.0]
-author: jojoe77777
+author: BrokenItZAndrei100
 description: Cache/uncache slappers!
 depend: [Slapper]
